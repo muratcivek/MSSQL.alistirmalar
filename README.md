@@ -2,6 +2,7 @@
 SQL sorgularıyla yaptığım kapsamli alıştırmalar.
 
 **  A L I Ş T I R M A  1  **  
+  
 ** Aşağıda belirtilen özelliklerdeki tabloları oluşturunuz. **  
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/1.png)  
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/2.png)  
