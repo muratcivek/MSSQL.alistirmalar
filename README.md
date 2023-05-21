@@ -19,6 +19,14 @@ SQL sorgularıyla yaptığım kapsamli alıştırmalar.
 ** Yukarıda oluşturulmuş olan tablolara girilmiş olan verilere göre aşağıdaki sorgulama işlemlerini yapınız. **
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/10.png)  
 
+** Northwind veritabanı ile ilgili aşağıda belirtilen sorguları yapınız. **
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/11.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/12.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/13.png) 
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/14.png)  
+
+
+
 
 
 
