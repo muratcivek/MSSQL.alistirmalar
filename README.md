@@ -30,11 +30,29 @@ SQL sorgularıyla yaptığım kapsamli alıştırmalar.
 **  A L I Ş T I R M A  2  **  
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/1.png)  
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/2.png)  
-
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/3.png)  
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/4.png)  
-
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/5.png)  
+
+**  A L I Ş T I R M A  3  **  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/1.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/2.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/3.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/4.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/5.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/6.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/7.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/8.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/9.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/10.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/11.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/12.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma3/13.png)  
+
+
+
+
+
 
 
 
