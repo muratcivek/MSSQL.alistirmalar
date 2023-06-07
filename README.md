@@ -27,6 +27,16 @@ SQL sorgularıyla yaptığım kapsamli alıştırmalar.
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/13.png) 
 ![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma1/14.png)  
 
+**  A L I Ş T I R M A  2  **  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/1.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/2.png)  
+
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/3.png)  
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/4.png)  
+
+![Soru Görseli ](https://github.com/muratcivek/MSSQL.alistirmalar/blob/main/alistirma2/5.png)  
+
+
 
 
 
